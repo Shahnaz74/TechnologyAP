@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "cd actionplan/actionplan_frontend && vue-cli-service build"
+    "build": "cd actionplan_frontend && vue-cli-service build"
   },
   "dependencies": {
     "apexcharts": "^3.43.0",
